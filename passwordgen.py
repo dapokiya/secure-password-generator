@@ -1,8 +1,8 @@
-print ("Hye..!")
+print ("Hello..!")
 print("i am password generator")
 length=int(input("input your password length"))
 
-symbol=raw_input("password in spacial symbol..like @,#,%,$...etc(if yes then press y other pree n) ")
+symbol=raw_input("password in spacial symbol..like @,#,%,$...etc(if yes then press y other prees n) ")
 number=raw_input("password in digit ..like 1,2,3,4,etc ?")
 lcase=raw_input("password in lower case ..like a,b,c,d,etc ?")
 ucase=raw_input("password in upper case ..like A,B,C,D,etc ?")
